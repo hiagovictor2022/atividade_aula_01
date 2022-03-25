@@ -1,0 +1,32 @@
+.mae {
+    height: 200px;
+    width: 200px;
+    background-color: #bbff00;
+}
+
+.filha {
+    height: 100px;
+    width: 100px;
+    background-color: #ff00b7;
+}
+
+.p1 {
+    background-color: #ffffff;
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(87, 7, 248);
+    font-weight: 400;
+}
+
+.mae2 {
+    width: 60%;
+    height: 70vh;
+    background-color: rgb(255, 225, 0);
+
+}
+
+.filha2 {
+    width: 50%;
+    height: 40vh;
+    background-color: #ff00b7;
+}
